@@ -69,7 +69,7 @@ android {
         release {
             storeFile file("sign/key.jks")
             storePassword "hassan"
-            keyAlias "key.0"
+            keyAlias "key0"
             keyPassword "hassan"
         }
     }

@@ -16,7 +16,7 @@ class Config {
   // App name
   static String appName = "flipteria";
   // App link
-  static String appLink = "https://sellercenter.flipteria.lk/";
+  static String appLink = "https://sellercenter.dev.flipteria.lk/";
   // Display page name without app name (after 1 page)
   static bool displayTitle = true;
   // Main color (any HEX color)
